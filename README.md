@@ -43,3 +43,46 @@ This is an experimental research that consists in the literature review of works
 Made with PVC pipes...
 
 ![Drone and Controller](https://github.com/gabrieloliveira95/DroneDIYArduino/blob/master/Img/P_20170907_161606.jpg?raw=true)
+
+
+# Info
+
+Clockwise:
+(ESC) A -> Yellow (MOTOR)
+(ESC) B -> Red (MOTOR)
+(ESC) C -> Black (MOTOR)
+
+Anticlockwise:
+(ESC) A -> Black (MOTOR)
+(ESC) B -> Red (MOTOR)
+(ESC) C -> Yellow (MOTOR)
+
+ESC wire colors:
+- Black or Brown: Ground
+- Red: Vcc
+- Yellow or Orange: Data
+
+Motor Brushless A2212 - 1000KV
+- Current Max: 12V / 60A 
+- Corrente Without Weight 10V / 0.5A 
+- Baterry: 2-3 Li-Poly 
+- Shaft diameter: 27.5 x 30 mm 
+- Diâmetro do eixo: 3.17 mm 
+- Peso: 47g
+- KV: 1000
+- Buoyancy: propeler 9x4.7 aprox. 730g and 10x4.5 aprox 915g
+ 
+Esc Speed 30A
+- OutPut: 30A  / 40A starting
+- Input: 5,6V - 16,8V
+- Battery: 2-4 cel lithium / 5-12 NiCd / NiMH 
+- BEC: 2A/5V
+- Maximum Speed: 210000rpm for 2 poles BLM / 70000rpm for 6 poles BLM / 35000rpm for 12 poles BLM 
+- Weight: 26g
+- Size: 5,7x2,5x0,8 cm
+ 
+Propelers 10x4.5
+- 1 Propeler Clockwise + 1 Propeler Counter-Clockwise
+- Size: 25 cm
+- Weight: 8g
+- Color: Black and Green
