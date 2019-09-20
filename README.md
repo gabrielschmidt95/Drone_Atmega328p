@@ -16,4 +16,4 @@ Currently, activities such as event coverage, mapping, analysis and monitoring o
 1  - Li-on Battery 2220mAh 
 2  - Microcontroller Atmega328 8-bit AVR
 
-![Drone and Controller](https://raw.githubusercontent.com/gabrieloliveira95/DroneDIYArduino/master/img/P_20170907_161606.jpg)
+![Drone and Controller](https://github.com/gabrieloliveira95/DroneDIYArduino/blob/master/Img/P_20170907_161606.jpg?raw=true)
