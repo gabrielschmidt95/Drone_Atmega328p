@@ -6,14 +6,23 @@ Currently, activities such as event coverage, mapping, analysis and monitoring o
 # Itens:
 
 
-4	 - Motor A2212 13t 1000kv Brushless           
+4	 - Motor A2212 13t 1000kv Brushless       
+
 4  - Propellers 10x4.5
+
 4  - Esc 30a with Bec 2A/5V
+
 1  - Mpu-6050  Six-Axis(Gyro + Accelerometer) 
+
 1  - BMP180 Barometric Pressure/Temperature/Altitude Sensor
+
 2  - NRF24L01 Transceiver Module
+
 1  - Home Made Frame and Controller
+
 1  - Li-on Battery 2220mAh 
+
 2  - Microcontroller Atmega328 8-bit AVR
+
 
 ![Drone and Controller](https://github.com/gabrieloliveira95/DroneDIYArduino/blob/master/Img/P_20170907_161606.jpg?raw=true)
