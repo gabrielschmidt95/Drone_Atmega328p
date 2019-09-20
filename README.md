@@ -48,14 +48,14 @@ Made with PVC pipes...
 # Info
 
 Clockwise:
-(ESC) A -> Yellow (MOTOR)
-(ESC) B -> Red (MOTOR)
-(ESC) C -> Black (MOTOR)
+- (ESC) A -> Yellow (MOTOR)
+- (ESC) B -> Red (MOTOR)
+- (ESC) C -> Black (MOTOR)
 
 Anticlockwise:
-(ESC) A -> Black (MOTOR)
-(ESC) B -> Red (MOTOR)
-(ESC) C -> Yellow (MOTOR)
+- (ESC) A -> Black (MOTOR)
+- (ESC) B -> Red (MOTOR)
+- (ESC) C -> Yellow (MOTOR)
 
 ESC wire colors:
 - Black or Brown: Ground
